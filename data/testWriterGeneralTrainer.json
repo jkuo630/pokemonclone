@@ -1,0 +1,13 @@
+{
+    "list of owned pokemon": [{
+        "hitpoints": 15,
+        "level": 5,
+        "name": "Pikachu"
+    }],
+    "list of party pokemon": [{
+        "hitpoints": 15,
+        "level": 5,
+        "name": "Bulbasaur"
+    }],
+    "name": "Jason"
+}

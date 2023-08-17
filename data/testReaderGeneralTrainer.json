@@ -1,0 +1,32 @@
+{
+  "list of owned pokemon": [
+    {
+      "hitpoints": 15,
+      "level": 5,
+      "name": "Bulbasaur"
+    },
+    {
+      "hitpoints": 15,
+      "level": 5,
+      "name": "Gengar"
+    }
+  ],
+  "list of party pokemon": [
+    {
+      "hitpoints": 15,
+      "level": 5,
+      "name": "Lucario"
+    },
+    {
+      "hitpoints": 15,
+      "level": 5,
+      "name": "Tyranitar"
+    },
+    {
+      "hitpoints": 15,
+      "level": 5,
+      "name": "Typhlosion"
+    }
+  ],
+  "name": "Jason"
+}
